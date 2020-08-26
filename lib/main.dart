@@ -24,32 +24,32 @@ class _XylophoneAppState extends State<XylophoneApp> {
               ),
               FlatButton(
                 onPressed: () {},
-                color: Colors.red,
+                color: Colors.orange,
                 child: Text(''),
               ),
               FlatButton(
                 onPressed: () {},
-                color: Colors.red,
+                color: Colors.yellow,
                 child: Text(''),
               ),
               FlatButton(
                 onPressed: () {},
-                color: Colors.red,
+                color: Colors.green,
                 child: Text(''),
               ),
               FlatButton(
                 onPressed: () {},
-                color: Colors.red,
+                color: Colors.blue,
                 child: Text(''),
               ),
               FlatButton(
                 onPressed: () {},
-                color: Colors.red,
+                color: Colors.indigo,
                 child: Text(''),
               ),
               FlatButton(
                 onPressed: () {},
-                color: Colors.red,
+                color: Colors.pink,
                 child: Text(''),
               ),
             ],
